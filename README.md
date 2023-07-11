@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @munyato
 - 👀 I’m interested in Web Development and Mobile Application Development
 - 🌱 I’m currently a Computer Science Undergraduate at Bindura University
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on developing web-based applications as a backend developer
 - 📫 How to reach me: +263 77 423 1476/munyazmt@gmail.com
 
 <!---
